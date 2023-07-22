@@ -9,10 +9,7 @@ BERN Project is a decentralized application (dApp) that utilizes the Ethereum bl
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
