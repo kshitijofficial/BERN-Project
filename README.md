@@ -4,6 +4,9 @@
 
 BERN Project is a decentralized application (dApp) that utilizes the Ethereum blockchain for transparency and security. It provides a user-friendly interface built with React.js for interacting with the blockchain, while the server side is powered by Node.js and Express.
 
+[Watch the BERN Project Demo](https://www.youtube.com/watch?v=your_video_id)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
