@@ -9,7 +9,7 @@ const ViewAllTasks =()=>{
             const res = await fetch("http://localhost:3000/api/ethereum/view-all-task",{
                 method:"GET",
                 headers:{
-                    "content-type":"applicatio/json"
+                    "Accept":"application/json"
                 }
             })
             const data = await res.json();
